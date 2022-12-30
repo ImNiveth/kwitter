@@ -1,0 +1,20 @@
+const firebaseConfig = {
+
+  apiKey: "AIzaSyAwcLAjqNCtk-2nZSZxttA9zi8KOiOT_rY",
+
+  authDomain: "kwitterdatabase-31794.firebaseapp.com",
+
+  projectId: "kwitterdatabase-31794",
+
+  storageBucket: "kwitterdatabase-31794.appspot.com",
+
+  messagingSenderId: "643947434092",
+
+  appId: "1:643947434092:web:3d16091b033c36ed218849"
+
+};
+
+
+// Initialize Firebase
+
+const app = initializeApp(firebaseConfig);
